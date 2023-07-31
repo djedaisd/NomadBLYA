@@ -1,0 +1,19 @@
+.dialog_wrapper {
+  background-color: darkcyan;
+  height: 200px;
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+
+.dialogs_items {
+  padding: 15px;
+  text-decoration: none;
+}
+
+.messages_items {
+  padding: 15px;
+}
+
+.dialogs_items .active {
+  color: aquamarine;
+}

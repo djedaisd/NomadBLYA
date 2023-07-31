@@ -1,0 +1,22 @@
+.aside_wrapper {
+  grid-area: aside;
+  background-color: aqua;
+  padding: 10px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.item a {
+  color: black;
+  text-decoration: none;
+}
+.item a.active-link {
+  color: red;
+}

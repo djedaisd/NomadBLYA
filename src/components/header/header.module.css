@@ -1,0 +1,13 @@
+.header_wrapper {
+  grid-area: header;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aquamarine;
+  height: 75px;
+}
+
+.headLink {
+  text-decoration: none;
+  color: black;
+}
