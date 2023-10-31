@@ -15,3 +15,8 @@
 .content {
   grid-area: content;
 }
+.App{
+  width: 100vw;
+  height: 100vh;
+  margin-top :0px;
+  }

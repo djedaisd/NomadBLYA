@@ -7,7 +7,7 @@ const Aside = () => {
     <div className={a.aside_wrapper}>
       <div className={a.navbar}>
         <h2>
-          <ul>
+          <ul className="SidebarList">
             <li className={a.item}>
               <NavLink to="/content" className={setActive}>
                 Profile
